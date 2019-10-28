@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RRprêmios</string>
+    <string name="linkfederal">
+    <a href="http://loterias.caixa.gov.br/wps/portal/loterias/landing/federal">http://loterias.caixa.gov.br/wps/portal/loterias/landing/federal</a>
+    </string>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "486270340442",
+    "firebase_url": "https://rifinhaong.firebaseio.com",
+    "project_id": "rifinhaong",
+    "storage_bucket": "rifinhaong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486270340442:android:8dfbf0b91d5b638ee7f763",
+        "android_client_info": {
+          "package_name": "com.czzruan.rrpremios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486270340442-ptsosfc5stacc0jriv0q97k6rrb1gpsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.czzruan.rrpremios",
+            "certificate_hash": "d9bb3870d9adedddf06d28c3493ccf85df8b86ba"
+          }
+        },
+        {
+          "client_id": "486270340442-5f1fjr6vasqjrh4b1roeotnvb64m13q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr-B5I1Vrn0UW5Byc3aViZCE78v3RAca8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486270340442-5f1fjr6vasqjrh4b1roeotnvb64m13q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

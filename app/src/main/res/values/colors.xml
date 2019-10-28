@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#111111</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="corBackgroundRR">#3C742C</color>
+    <color name="cinza_medio">#DBDBDB</color>
+    <color name="corActionBar">#781EB4</color>
+    <color name="color_blue">#0830A8</color>
+</resources>

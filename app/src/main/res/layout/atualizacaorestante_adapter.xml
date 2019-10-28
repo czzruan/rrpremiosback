@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/color_blue"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/atualizacao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Atualização"
+            android:textColor="@android:color/white"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/restante"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Restante"
+            android:textColor="@android:color/white"
+            android:textSize="18sp" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
